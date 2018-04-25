@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PiPSample</string>
+    <string name="enter_to_pip_mode">Enter</string>
+    <string name="content">This is content</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+</resources>

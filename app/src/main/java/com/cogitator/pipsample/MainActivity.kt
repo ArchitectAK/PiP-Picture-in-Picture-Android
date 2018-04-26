@@ -14,6 +14,7 @@ import android.support.annotation.DrawableRes
 import android.support.v7.app.AppCompatActivity
 import android.util.Rational
 import android.view.View
+import com.cogitator.pipsample.R.id.*
 import kotlinx.android.synthetic.main.activity_main.*
 
 

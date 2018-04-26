@@ -1,6 +1,9 @@
 # PiP-Picture-in-Picture-Mode-Sample-Android
 Sample app to demonstrate how PiP (Picture-in-Picture) feature works in Android Oreo
 
+Learn in easier language [here](
+https://medium.com/@ankitdroiddeveloper/picture-in-picture-android-oreo-and-newer-818a7356930)
+
 
 <img src="https://github.com/AnkitDroidGit/PiP-Picture-in-Picture-Mode-Sample-Android/blob/master/art/gif_pip.gif" width="400" height="720">
 
